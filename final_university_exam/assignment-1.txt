@@ -1,0 +1,28 @@
+Department of Computer Science 
+Gujarat University 
+5 Year Integrated M.Sc.(Computer Science) - IV Sub: Web Application Development 
+Assignment 1 
+1. Write a PHP code to print following series. 
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+2. Write a PHP code to redirect page to new webpage or website. 
+3. Write a PHP code to input array and display(Total No of elements must entered  from user). 
+4. Write a PHP code to check the type and value of variable. 
+5. Write a PHP code to demonstrate foreach in array. 
+6. Write a PHP code to demonstrate switch statement. 
+7. Write a PHP code to demonstrate continue and break. 
+
+8. Write a PHP code to find the factorial of the number entered by user. 
+9. Write a PHP code to print multiplication table of the number entered by user. 
+10. Write a PHP code to take input from user for no of row and column and  generate dynamic table. 
+11. Write a PHP code to define use of $_POST, $_GET and $_REQUEST. 
+12. Write a code to make user registration form and validate that form.
+13. Make a simple webpage which shows the use of include, require.
+14. Write a PHP code to make user registration form and display the given detail on  another page in Table format. 
+15. Write a PHP code to demonstrate regular expression functions. 
+Assignment for the semester :  
+Create a website in PHP with at least 10 pages including user  registration, client as well as admin side. Use all the concepts  of PHP you have learned (Make most of the pages dynamic).
+Page 1 of 1 

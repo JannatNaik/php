@@ -1,0 +1,20 @@
+Note : Use Exception Handling in all Programs.
+1. Write a PHP script to make a registration page and login page where details of user
+is stored in text file. After proper authentication Login is successful or not message
+must be displayed.
+2. Write a PHP script to make a simple calculator on webpage that will perform basic
+arithmetic operations.
+3. Write a program to demonstrate all function for file handling(Take a file about
+yourself and perform read, write, random access etc on file with proper validation
+checks).
+4. Write a PHP script to take information from form about the students and
+marksheet and calculate the Total marks and percentage. Also store marksheet in
+file(Use object-oriented concepts).
+5. Write a PHP code to upload image file.
+6. Write a PHP code to upload any file of size less than 20000 bytes.
+7. Write a PHP code to upload MP3 file.
+8. Write a PHP Code to upload doc, pdf, ppt files.
+9. Write a PHP script to generate a random number between two numbers given by
+the user.
+10. Make a webpage which contains Script 1 to 9 Buttons/Links. According to user
+click particular
